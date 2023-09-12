@@ -1,2 +1,2 @@
 # Compt_Numerica
-Repesitorio dedicado a disciplina Computação Numérica
+Repositorio dedicado a disciplina Computação Numérica
